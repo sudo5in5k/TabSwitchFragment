@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ごちゃ混ぜアプリ</string>
+    <string name="height">身長</string>
+    <string name="weight">体重</string>
+    <string name="calc">計算する！</string>
+
+    <string name="omikuji_label">あなたの運勢は・・・</string>
+    <string name="score_label">結果は?</string>
+    <string name="draw_button">おみくじを引く</string>
+
+    <string name="timer_label">00.00.000</string>
+    <string name="start_label">START</string>
+    <string name="stop_label">STOP</string>
+    <string name="reset_label">RESET</string>
+    <string name="rap_label">RAP</string>
+
+</resources>
